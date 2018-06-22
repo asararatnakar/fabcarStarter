@@ -3,7 +3,8 @@
 
 Pre-req: Create a IBM Starter plan on Bluemix
          Install & Instantiate fabcar chaincode with chiancode name "fabcar"
-         (chaincode can be found here: https://github.com/hyperledger/fabric-samples/tree/master/chaincode/fabcar/go)
+         (chaincode can be found here: https://github.com/hyperledger/fabric-samples/tree/master/chaincode/fabcar/go
+         wget https://raw.githubusercontent.com/hyperledger/fabric-samples/master/chaincode/fabcar/go/fabcar.go)
 
 Step 1: clone the repo
 
